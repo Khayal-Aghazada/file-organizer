@@ -14,16 +14,6 @@
 
 ---
 
-## 📸 Before & After
-
-| Before        | After         |
-|---------------|---------------|
-| Cluttered folder | Neatly sorted folders |
-
-*(Add screenshots if desired)*
-
----
-
 ## 🛠️ Tech Stack
 
 - Python 3
